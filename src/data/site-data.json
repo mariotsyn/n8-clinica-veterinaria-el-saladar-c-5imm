@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "Clínica Veterinaria El Saladar C.B.",
+    "tagline": "Cuidando a tu familia peluda con amor y experiencia.",
+    "description": "En Clínica Veterinaria El Saladar C.B., nos dedicamos a ofrecer la más alta calidad en atención médica para tus mascotas. Nuestro equipo de veterinarios expertos garantiza un cuidado compasivo y personalizado, utilizando tecnología avanzada para la salud y el bienestar de tus animales. Situados en Dénia, somos tu clínica de confianza para una vida plena de tus compañeros.",
+    "phone": "+34 966 42 40 50",
+    "address": "Pg. del Saladar, 62, 03700 Dénia, Alicante, España",
+    "email": "info@veterinariaelsaladar.es",
+    "rating": 4.6,
+    "reviewCount": 101,
+    "hours": ["Monday: 10:00 AM – 1:30 PM, 4:30 – 8:00 PM","Tuesday: 10:00 AM – 1:30 PM, 4:30 – 8:00 PM","Wednesday: 10:00 AM – 1:30 PM","Thursday: 10:00 AM – 1:30 PM, 4:30 – 8:00 PM","Friday: 10:00 AM – 1:30 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#66BB6A",
+    "secondary": "#2E7D32",
+    "accent": "#FFB300",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "La salud de tu mascota, nuestra máxima prioridad en Dénia.",
+    "subheadline": "Tu mascota merece lo mejor. Nuestro equipo experto ofrece cuidado integral y compasivo, garantizando su bienestar y felicidad.",
+    "cta1": { "text": "Pedir Cita", "href": "#contact" },
+    "cta2": { "text": "Ver Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ7Sd8XSEbnhIRcfilagBITjU/photos/ATCDNfVD9bXt5lVQYAwATFq9c847m1UJFtmx5X4duBB3sgIQ1uXYTqblzqjqhp45CIlMGJANOhzkgy8JEpZ1u70DofXU4C_lur1pFlc7GEOmcn-SMWZkd4uHitWi3jIil2it0fjRmGMA3jm_1F7upnElCF96ndRGyKwK5KEq69SGbvXoeoOUqvVQpUykOW3Ayex2kX4VU4JroAKXbRvN5yVo4IjDosNWYDXyvEOjKHbPtYQYnz2zVzHcI1hUmiFGL7knwbNRZTvXM429AxcDglXhCMWEBNFnVcj5diZGMK5nsnc2hg/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "🩺", "title": "Consultas y Medicina General", "description": "Diagnósticos precisos y tratamientos efectivos para el bienestar diario de tu mascota. Prevención y chequeos regulares esenciales." },
+    { "icon": "🩹", "title": "Cirugía y Hospitalización", "description": "Intervenciones quirúrgicas seguras y cuidados postoperatorios expertos en nuestras modernas instalaciones. Recuperación garantizada." },
+    { "icon": "🔬", "title": "Diagnóstico Avanzado", "description": "Análisis clínicos, radiografías y ecografías para una detección temprana y precisa de cualquier afección. Tecnología de punta." },
+    { "icon": "🦷", "title": "Salud Dental y Nutrición", "description": "Cuidado bucal especializado y asesoramiento nutricional personalizado para una vida más larga y saludable. Prevenimos enfermedades." }
+  ],
+  "about": {
+    "title": "Nuestra Pasión: El Cuidado de tus Mascotas",
+    "text": "En Clínica Veterinaria El Saladar C.B., la salud y felicidad de tus mascotas son el motor de todo lo que hacemos. Desde nuestra fundación, nos hemos dedicado a ofrecer un servicio veterinario de la más alta calidad en Dénia, construyendo relaciones de confianza con cada familia y sus queridos animales.\n\nNuestro equipo está formado por profesionales altamente cualificados y, sobre todo, amantes de los animales. Combinamos la experiencia y la formación continua con la tecnología más avanzada para garantizar diagnósticos precisos y tratamientos eficaces. Creemos en una medicina preventiva y personalizada, adaptada a las necesidades individuales de cada paciente.\n\nMás allá de la atención médica, nos esforzamos por crear un ambiente cálido y acogedor donde tanto las mascotas como sus dueños se sientan cómodos y seguros. Somos parte de la comunidad de Dénia y estamos comprometidos con el bienestar animal en nuestra región, ofreciendo un servicio excepcional que supera las expectativas.",
+    "imageUrl": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJ7Sd8XSEbnhIRcfilagBITjU/photos/ATCDNfVD9bXt5lVQYAwATFq9c847m1UJFtmx5X4duBB3sgIQ1uXYTqblzqjqhp45CIlMGJANOhzkgy8JEpZ1u70DofXU4C_lur1pFlc7GEOmcn-SMWZkd4uHitWi3jIil2it0fjRmGMA3jm_1F7upnElCF96ndRGyKwK5KEq69SGbvXoeoOUqvVQpUykOW3Ayex2kX4VU4JroAKXbRvN5yVo4IjDosNWYDXyvEOjKHbPtYQYnz2zVzHcI1hUmiFGL7knwbNRZTvXM429AxcDglXhCMWEBNFnVcj5diZGMK5nsnc2hg/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Interior moderno y acogedor de la clínica veterinaria El Saladar" },
+    { "url": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=1200&q=80", "alt": "Veterinario examinando cuidadosamente a un perro durante una consulta" },
+    { "url": "https://images.unsplash.com/photo-1666214280391-8ff5bd3c0bf0?w=1200&q=80", "alt": "Mano de veterinario acariciando a un gato blanco y negro en la clínica" },
+    { "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80", "alt": "Veterinario realizando una revisión dental a un perro de tamaño mediano" }
+  ],
+  "testimonials": [
+    { "name": "Sofía García", "stars": 5, "text": "Siempre atienden a mi perro con una profesionalidad y cariño inmejorables. ¡Totalmente recomendable!" },
+    { "name": "Carlos Ruiz", "stars": 5, "text": "El equipo es excepcional. Explicaciones claras y un trato humano tanto para mi gato como para mí. Gracias por todo." },
+    { "name": "Ana Martínez", "stars": 4, "text": "Servicio rápido y eficaz. Resolvieron la urgencia de mi periquito con mucha amabilidad y buen hacer. Volveré." }
+  ],
+  "contact": {
+    "title": "Agenda una Cita y Cuida a tu Mascota",
+    "subtitle": "Contacta con nosotros hoy mismo para brindarle a tu compañero el cuidado que se merece. Estamos aquí para ayudar.",
+    "whatsappNumber": "+34 966 42 40 50",
+    "showMap": true,
+    "mapQuery": "Clínica Veterinaria El Saladar C.B. Pg. del Saladar, 62, 03700 Dénia, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Clínica Veterinaria El Saladar C.B."
+  }
+}
